@@ -1,5 +1,5 @@
 {
-  "name": "web-creator",
+  "name": "Donato - Portfolio",
   "version": "1.0.0",
   "scripts": {
     "dev": "node scripts/build.mjs",
